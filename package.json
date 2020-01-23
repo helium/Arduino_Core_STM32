@@ -1,0 +1,6 @@
+{
+    "description":"MCCI STM32 core support for Arduino",
+    "name":"framework-arduinoststm32-mcci",
+    "url":"https://github.com/mcci-catena/Arduino_Core_STM32",
+    "version":"0.0.1"
+}
